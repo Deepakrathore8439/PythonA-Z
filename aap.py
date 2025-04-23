@@ -1,1 +1,1 @@
-file = open ()
+file = open("")
